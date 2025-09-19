@@ -24,6 +24,7 @@ Whether you're developing software, testing applications, or running Windows-onl
 
 ![VMware Fusion Screenshot](https://cdn.arstechnica.net/wp-content/uploads/2018/09/VMWare-Fusion-11-interface.png)
 
+
 ---
 
 ## System Requirements
